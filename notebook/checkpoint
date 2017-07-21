@@ -1,0 +1,2 @@
+model_checkpoint_path: "lstm_sentiment_model_overfit_75seq-1000"
+all_model_checkpoint_paths: "lstm_sentiment_model_overfit_75seq-1000"
